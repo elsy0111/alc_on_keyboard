@@ -4,11 +4,13 @@ please use on 1920 * 1080 and fullscreen
 
 
 -------------install module----------------
+
 If you dont have module please install it
 
 pip install pyautogui
 
 pip install keyboard
+
 -------------------------------------------
 
 
