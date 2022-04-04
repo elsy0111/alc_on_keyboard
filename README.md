@@ -1,5 +1,5 @@
 # alc_on_keyboard
-U can operate alc with a keyboard!
+U can operate alc with a keyboard!<br>
 please use on 1920 * 1080 and fullscreen
 
 
@@ -7,8 +7,7 @@ please use on 1920 * 1080 and fullscreen
 
 If you dont have module please install it
 
-pip install pyautogui
-
+pip install pyautogui<br>
 pip install keyboard
 
 ------------------------------------------
@@ -19,12 +18,8 @@ Use at Drill session.
 
 # Useage
 
-N ... choose left answer
-
-M ... choose right answer
-
-J ... skip text input -> Next -> OK
-
-K ... Next -> ok
-
+N ... choose left answer<br>
+M ... choose right answer<br>
+J ... skip text input -> Next -> OK<br>
+K ... Next -> ok<br>
 L ... Goal -> ok -> はい/Yes
