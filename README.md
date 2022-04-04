@@ -3,8 +3,7 @@ U can operate alc with a keyboard!
 please use on 1920 * 1080 and fullscreen
 
 
-install module
-------------------------------------------
+# install module
 
 If you dont have module please install it
 
@@ -12,11 +11,13 @@ pip install pyautogui
 
 pip install keyboard
 
--------------------------------------------
+------------------------------------------
 
 
 Use at Drill session.
 
+
+# Useage
 
 N ... choose left answer
 
